@@ -1,0 +1,11 @@
+[user]
+	name = Chris Frohoff
+	email = cfrohoff@qualcomm.com
+[http]
+	cookiefile = ~/cookies.txt
+[https]
+	cookiefile = ~/cookies.txt
+[color]
+	branch = auto
+	diff = auto
+	status = auto
